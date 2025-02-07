@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BISWASRITA HAZRA</h1>
 <h3 align="center">An aspiring frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Pursuing BTECH in Computer Science Engineering**
+- 🌱 I’m currently doing  BTECH in Computer Science Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
