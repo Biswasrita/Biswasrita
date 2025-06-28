@@ -1,23 +1,45 @@
-<h1 align="center">Hi 👋, I'm BISWASRITA HAZRA</h1>
-<h3 align="center">An aspiring web developer from India.</h3>
 
-- 🌱 I’m currently doing  BTECH in Computer Science Engineering**
+ <h1 align="center">Hi 👋, I'm Biswasrita Hazra</h1>
+<h3 align="center">Aspiring Full Stack Developer | Passionate about Problem Solving</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👩‍🎓 About Me
+
+- 🎓 I’m currently pursuing BTECH in CSE at **MCKV INSTITUTE OF ENGINEERING**
+- 💡 I’m interested in **C, Java, DSA (in C), HTML, CSS, JavaScript, Node.js, Python, Linux**
+- 💬 Ask me about **DSA & C Programming**
+- 🚀 I'm learning and building my skills toward becoming a **Full Stack Developer**
+- 🤝 I’m open to collaborating on **projects and problem-solving challenges**
+- 📫 Reach out to me at **[E-mail id](mailto:hazrabiswasrita@gmail.com)**
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/biswasrita-hazra-947570349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswasrita-hazra-947570349" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+  </a>
 </p>
-<p>**Ask me about DSA, PYTHON </p>
-<h3 align="left">Languages and Tools:</h3>
-<hr>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-&nbsp
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  &nbsp
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  &nbsp
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  &nbsp
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  &nbsp 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> “DSA makes your logic stronger, but practice makes it unbeatable.”
