@@ -11,7 +11,6 @@
 - 💬 Ask me about **DSA & C Programming**
 - 🚀 I'm learning and building my skills toward becoming a **Full Stack Developer**
 - 🤝 I’m open to collaborating on **projects and problem-solving challenges**
-- 📫 Reach out to me at **[E-mail id](mailto:hazrabiswasrita@gmail.com)**
 
 ---
 
