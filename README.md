@@ -20,6 +20,10 @@
   <a href="https://www.linkedin.com/in/biswasrita-hazra-947570349/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
   </a>
+ &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/biswasrita/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" />
+  </a>
 </p>
 
 ---
