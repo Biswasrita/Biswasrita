@@ -44,6 +44,3 @@
 
 ---
 
-### ✨ Fun Fact
-
-> “DSA makes your logic stronger, but practice makes it unbeatable.”
