@@ -1,5 +1,4 @@
-
- <h1 align="center">Hi 👋, I'm Biswasrita Hazra</h1>
+<h1 align="center">Hi 👋, I'm Biswasrita Hazra</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate about Problem Solving</h3>
 
 ---
@@ -7,8 +6,8 @@
 ### 👩‍🎓 About Me
 
 - 🎓 I’m currently pursuing BTECH in CSE at **MCKV INSTITUTE OF ENGINEERING**
-- 💡 I’m interested in **C, Java, DSA (in C), HTML, CSS, JavaScript, Node.js, MongoDB,Python, Linux**
-- 💬 Ask me about **C,JAVA,DSA,MongoDB**
+- 💡 I’m interested in **C, Java, DSA (in C), HTML, CSS, JavaScript, Node.js, MongoDB, Python, Linux**
+- 💬 Ask me about **C, JAVA, DSA, MongoDB**
 - 🚀 I'm learning and building my skills toward becoming a **Full Stack Developer**
 - 🤝 I’m open to collaborating on **projects and problem-solving challenges**
 
@@ -26,7 +25,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 💻 Tech Stack
@@ -36,11 +34,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Lab" width="40" height="40"/>
 </p>
 
 ---
-
