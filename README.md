@@ -6,11 +6,8 @@
 ## 👩‍🎓 About Me
 
 -  B.Tech student in **Computer Science & Engineering** at **MCKV Institute of Engineering**
--  Currently focusing on **Machine Learning**, **Python**, and **Data Analysis**
--  Working knowledge of **Web Development** (HTML, CSS, JavaScript, Node.js)
--  Practicing **C, Java, and DSA** to strengthen programming fundamentals
--  Building beginner-level **Python and ML projects**
--  Open to **projects, internships, and collaborative learning**
+- 🔍 Currently focusing on **Machine Learning, Python, and Data Analysis**
+- 💻 Familiar with **Web Development**, **C, Java, and DSA**, and building beginner-level projects
 
 ---
 
@@ -48,23 +45,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
----
-
-## 🎯 Current Focus
-
-- Learning **end-to-end Machine Learning workflows**
-- Working with **real-world datasets**
-- Deploying ML models using **Streamlit**
-- Improving **DSA and problem-solving skills**
-
----
-
-## 📌 Goals
-
-- Gain **industry exposure** through internships
-- Build **useful and practical software projects**
-- Strengthen **core computer science fundamentals**
-
----
-
-⭐ *Learning consistently and improving step by step.*
