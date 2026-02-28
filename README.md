@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Biswasrita Hazra</h1>
-<h3 align="center">Computer Science Engineering Student | Programmer | Learner</h3>
+<h3 align="center">Computer Science Engineering Student | Machine Learning Enthusiast | Programmer</h3>
 
 ---
 
 ## 👩‍🎓 About Me
 
--  B.Tech student in **Computer Science & Engineering** at **MCKV Institute of Engineering**
-- 🔍 Currently focusing on **Machine Learning, Python, and Data Analysis**
-- 💻 Familiar with **Web Development**, **C, Java, and DSA**, and building beginner-level projects
+- 🎓 B.Tech student in **Computer Science & Engineering** at **MCKV Institute of Engineering**
+- 🤖 Currently learning and building projects in **Machine Learning, Python, and Data Analysis**
+- 💻 Skilled in **C, Java, Python, and Data Structures & Algorithms**
+- 🌱 Exploring **AI, Data Science, and Backend Development**
+- 🚀 Interested in solving real-world problems using technology
 
 ---
 
@@ -32,16 +34,42 @@
 ## 💻 Tech Stack
 
 <p align="left">
+
+  <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
+  <!-- ML / Data Science -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+
+  <!-- Google Colab (ADDED) -->
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Colab" width="40" height="40"/>
+
+  <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
 </p>
 
+---
+
+## 📊 Current Focus
+
+- Machine Learning Projects
+- Python Programming
+- Data Analysis
+- DSA Practice
+
+---
+
+⭐ Always learning and building new things!
